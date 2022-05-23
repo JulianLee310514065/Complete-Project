@@ -1,4 +1,4 @@
-# fNIRS signal analysis
+# fNIRS Signal Analysis
 > From raw data to accuracy
 
 ------
@@ -10,7 +10,7 @@
 
 **Extraction.ipynb** $\rightarrow$ A ipynb contain extraction function,and Get_Feature will use it. It is about ten feature extraction methods
 
-**Model_and_Train** $\rightarrow$ Use three(four) pair of **feature selection and model**，and calculate the accuracy and ROC 
+**Model_and_Train.ipynb** $\rightarrow$ Use three(four) pair of **feature selection and model**，and calculate the accuracy and ROC 
 
 
 ## data file name explain 🔰
