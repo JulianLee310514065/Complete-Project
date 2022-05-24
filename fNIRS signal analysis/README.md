@@ -21,6 +21,8 @@
 
 **Randonstate (folder)** $\rightarrow$ If you are not able to graduate, you can use this
 
+**fNIRS from raw data to  accuracy.pptx** $\rightarrow$ The ppt that I reported before. (In Chainese)
+
 ---
 
 
