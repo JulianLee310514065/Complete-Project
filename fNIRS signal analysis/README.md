@@ -4,24 +4,24 @@
 ------
 ## .ipynb file name explain 🔰
 
-**Filter.ipynb**  $\rightarrow$  from origin data to filtered data, use **four stage butterworth**, cutoff frequency is **0.12**, and output to .csv 
+**Filter.ipynb**  →  from origin data to filtered data, use **four stage butterworth**, cutoff frequency is **0.12**, and output to .csv 
 
-**Get_Feature.ipynb** $\rightarrow$ Get Feature from all people, and output to excel 
+**Get_Feature.ipynb** → Get Feature from all people, and output to excel 
 
-**Extraction.ipynb** $\rightarrow$ A ipynb contain extraction function,and Get_Feature will use it. It is about ten feature extraction methods
+**Extraction.ipynb** → A ipynb contain extraction function,and Get_Feature will use it. It is about ten feature extraction methods
 
-**Model_and_Train.ipynb** $\rightarrow$ Use three(four) pair of **feature selection and model**，and calculate the accuracy and ROC 
+**Model_and_Train.ipynb** → Use three(four) pair of **feature selection and model**，and calculate the accuracy and ROC 
 
 
 ## data file name explain 🔰
 
-**label.xlsx** $\rightarrow$ contain label
+**label.xlsx** → contain label
 
-**VFT (folder)** $\rightarrow$ contain **origin blood oxygen concentration data**
+**VFT (folder)** → contain **origin blood oxygen concentration data**
 
-**Randonstate (folder)** $\rightarrow$ If you are not able to graduate, you can use this
+**Randonstate (folder)** → If you are not able to graduate, you can use this
 
-**fNIRS from raw data to  accuracy.pptx** $\rightarrow$ The ppt that I reported before. (In Chainese)
+**fNIRS from raw data to  accuracy.pptx** → The ppt that I reported before. (In Chainese)
 
 ---
 
