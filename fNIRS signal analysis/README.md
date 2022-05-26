@@ -4,7 +4,7 @@
 ------
 ## .ipynb file name explain 🔰
 
-**Filter.ipynb** $\rightarrow$ from origin data to filtered data, use **four stage butterworth**, cutoff frequency is **0.12**, and output to .csv 
+**Filter.ipynb**  $\rightarrow$  from origin data to filtered data, use **four stage butterworth**, cutoff frequency is **0.12**, and output to .csv 
 
 **Get_Feature.ipynb** $\rightarrow$ Get Feature from all people, and output to excel 
 
