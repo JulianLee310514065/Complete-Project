@@ -19,7 +19,7 @@ as the name --> Complete Project
 * Tag: filter、feature extracion、feature selection、built model、plot boundry、confusion metrix、AUC、Statistic
     
    
-## 2. AICUP
+## 2. AICUP♉
 詳情請見[連結](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 Public Score|Private|Finall|
@@ -28,4 +28,4 @@ Public Score|Private|Finall|
 
 
 心得:
-首先先感謝aicup給我機會可以參加到這個segmentation的比賽，但是這比賽有**很多**需改進的地方，且全部都在那20%報告處，對，最後成績報告佔了20%，一堆不認識的衝上榜。我就說一句，你主辦單位有Google強?有蝦皮強?人家google總獎金15萬**美金**的比賽，也是看private給名次，誰她媽還會看報告阿，google只要你交的model確定能在該方的環境跑，就會給錢了，這個啦嘰aicup報告還20%，報告這種就最主觀了，主辦單位給誰就給誰，重點是報告中還有一些分數是較**創新性**，創你阿嬤，標新立異很猛???，最好她用的方法是自己想的，或是2022年才剛發paper的，妳妹阿，新方法一定強那世界就很美好了，Swin Transfom是真的帥，但他打輸EfficientNet阿，sudo label很強對，但我Voting Ensemble的Accuracy就他媽比你高，今天這個是肺腺癌切割比賽，假設我說假設，我們的model被實際用於醫療(我知道當然不可能)，**我多你1%代表我100個可以多救1人ㄟ**，會寫報告有啥用啦，幫患者寫遺產書????`，一直愛新的東西難怪台灣起不來，我就問你為啥一堆人愛聽老歌或說10年前的歌，明明現在國內外抖音每月歌都出那麼多!?
+首先先感謝aicup給我機會可以參加到這個segmentation的比賽，但是這比賽有**很多**需改進的地方，且全部都在那20%報告處，對，最後成績報告佔了20%，一堆不認識的衝上榜。我就說一句，你主辦單位有Google強?有蝦皮強?人家google總獎金15萬**美金**的比賽，也是看private給名次，誰她媽還會看報告阿，google只要你交的model確定能在該方的環境跑，就會給錢了，這個啦嘰aicup報告還20%，報告這種就最主觀了，主辦單位給誰就給誰，重點是報告中還有一些分數是較**創新性**，創你阿嬤，標新立異很猛???，最好她用的方法是自己想的，或是2022年才剛發paper的，妳妹阿，新方法一定強那世界就很美好了，Swin Transfom是真的帥，但他打輸EfficientNet阿，sudo label很強對，但我Voting Ensemble的Accuracy就他媽比你高，今天這個是肺腺癌切割比賽，假設我說假設，我們的model被實際用於醫療(我知道當然不可能)，**我多你1%代表我100個人可以多救1人ㄟ**，會寫報告有啥用啦，幫患者寫遺產書????`，一直愛新的東西難怪台灣起不來，我就問你為啥一堆人愛聽老歌或說10年前的歌，明明現在國內外抖音每月歌都出那麼多!?
