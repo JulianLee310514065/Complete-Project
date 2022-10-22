@@ -32,5 +32,10 @@
 一週 (15mins) （120）
 ```
 
+### 3. 名次 - 第一名
+![第一](https://raw.githubusercontent.com/JulianLee310514065/Complete-Project/main/fintech_NSPO/photo1665678525.jpeg)
 
+
+### 4. 完整文檔
+[文檔連結](http://18.178.46.40/info/detail.php?pid=11)
 
