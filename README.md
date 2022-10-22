@@ -24,7 +24,7 @@ as the name --> Complete Project
 
 Public Score|Private|Finall|
 --|--|--
-第四|第七|第十四
+第四|第七|佳作(8~17名)
 
 <!--
 心得:
