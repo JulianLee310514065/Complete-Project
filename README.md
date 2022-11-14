@@ -24,7 +24,7 @@ as the name --> Complete Project
 
 Public Score|Private|Finall|
 --|--|--
-第四|第七|第十四
+第四|第七|佳作(8~17名)
 
 <!--
 心得:
@@ -32,3 +32,12 @@ Public Score|Private|Finall|
 -->
 
 ## 3. NSPO - 2022年第二屆AI智能雲端運算應用競賽♊
+
+- 隊名 : SuperNormal
+- 主題方向 : Fintech
+- 簡介 : 使用python中之第三方DTW函數庫，計算多種商品、大盤和加密貨幣的「時間序列相似度」，以觀察宏觀的現況。此外我們也計算大盤與個股間的時間序列相似度，來觀察大盤走勢向下時，走勢逆向上升的個股。
+詳情請見[連結](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)。
+
+最後名次|
+--|
+第一|

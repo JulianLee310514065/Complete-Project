@@ -2,6 +2,11 @@
 
 > 本Jupyter Notebook分兩部分，前半部為市場指標的研究與分析，後半部是英雄股的研究與分析
 
+---
+- 隊名 : SuperNormal
+- 主題方向 : Fintech
+- 簡介 : 使用python中之第三方DTW函數庫，計算多種商品、大盤和加密貨幣的「時間序列相似度」，以觀察宏觀的現況。此外我們也計算大盤與個股間的時間序列相似度，來觀察大盤走勢向下時，走勢逆向上升的個股。
+---
 
 ### 1. 市場指標 - DTW熱力圖、不同時長周期的DTW值、DTW趨勢圖
 ```
@@ -32,5 +37,10 @@
 一週 (15mins) （120）
 ```
 
+### 3. 名次 - 第一名
+![第一](https://raw.githubusercontent.com/JulianLee310514065/Complete-Project/main/fintech_NSPO/photo1665678525.jpeg)
 
+
+### 4. 完整文檔
+[文檔連結](http://18.178.46.40/info/detail.php?pid=11)
 
