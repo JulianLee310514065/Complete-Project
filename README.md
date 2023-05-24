@@ -22,9 +22,9 @@ as the name --> Complete Project
 ## 2. AICUP♉
 詳情請見[連結](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
-Public Score|Private|Finall|
---|--|--
-第四|第七|佳作(8~17名)
+|Public Score|Public Rank|Private Score|Private Rank|
+|--|--|--|--|
+0.898982|4/307|0.916327|7/307|
 
 <!--
 心得:
@@ -38,6 +38,6 @@ Public Score|Private|Finall|
 - 簡介 : 使用python中之第三方DTW函數庫，計算多種商品、大盤和加密貨幣的「時間序列相似度」，以觀察宏觀的現況。此外我們也計算大盤與個股間的時間序列相似度，來觀察大盤走勢向下時，走勢逆向上升的個股。
 詳情請見[連結](https://github.com/JulianLee310514065/Complete-Project/tree/main/fintech_NSPO)。
 
-最後名次|
+ Final Rank|
 --|
 第一|
