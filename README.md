@@ -11,20 +11,20 @@ as the name --> Complete Project
 
 |分數|學長(Train/Test Acc)|我的(Train/Test Acc)|備註|
 ---|:---|:----|:---:
-|CBI1| - | 92.8/88.8 |  |
-|CBI2| 91.3/90.0 | **92.5/90.0** | Best!|
-|A-Score| - | 92.5/88.8 | |
-|D-Score| - | 92.5/88.8 | |
+|CBI1| - | 92.8 / 88.8 |  |
+|CBI2| 91.3 / 90.0 | **92.5 / 90.0** | Best!|
+|A-Score| - | 92.5 / 88.8 | |
+|D-Score| - | 92.5 / 88.8 | |
 
 * Tag: filter、feature extracion、feature selection、built model、plot boundry、confusion metrix、AUC、Statistic
     
    
-## 2. AICUP♉
+## 2. AICUP - STAS_Segmentation♉
 詳情請見[連結](https://github.com/JulianLee310514065/AICUP_STAS_Segmentation)
 
 |Public Score|Public Rank|Private Score|Private Rank|
 |--|--|--|--|
-0.898982|4/307|0.916327|7/307|
+0.898982|4 / 307|0.916327|7 / 307|
 
 <!--
 心得:
@@ -41,3 +41,8 @@ as the name --> Complete Project
  Final Rank|
 --|
 第一|
+
+## 4. AICUP  - audio_2023♋
+|Public Score|Public Rank|Private Score|Private Rank|
+|--|--|--|--|
+0.600654|7 / 371|0.607568|6 / 307|
