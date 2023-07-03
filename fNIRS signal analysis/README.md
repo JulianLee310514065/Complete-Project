@@ -6,7 +6,7 @@
 * 工具 : Python、scikit-learn
 * 特色 : 在特徵選取的方面，**結合三位學長姐使用過的特徵萃取方法**，使特徵變得很多，且根據看過的[一篇paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6449551/)使用了**傅立葉轉換**來取特徵，達到更好的結果
 * 簡介 : 主要是拿來練習machine learning的技巧，因為網路上的練習資料多半是處理過，或是結果會很漂亮，才會被大家拿來當教學用，所以我想說趁這個難得有野生Data的機會，好好的練習一下
-* 結果比較 : *學長碩論僅放最好的結果(CBI2)，故不知其他的成績*，然後意外的發現，學長與我的最好的部分**都是CBI2**
+* 結果比較 : 學長碩論僅放最好的結果(CBI2)，故不知其他的成績，然後意外的發現，學長與我的最好的部分**都是CBI2**
 
 |分數|學長(Train/Test Acc)|我的(Train/Test Acc)|備註|
 ---|:---|:----|:---:
@@ -46,7 +46,7 @@
 # Referance
 [1] [Fernandez Rojas R, Huang X, Ou KL. A Machine Learning Approach for the Identification of a Biomarker of Human Pain using fNIRS. Sci Rep. 2019;9(1):5645. Published 2019 Apr 4. doi:10.1038/s41598-019-42098-w](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6449551/)
 
-[2] [功能性近紅外光光譜特徵與哥本哈根過勞量表之關聯性分析: 以警察人員為實驗對象之研究](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=4a2sQ0/record?r1=3&h1=1)
+[2] [功能性近紅外光光譜特徵與哥本哈根過勞量表之關聯性分析: 以警察人員為實驗對象之研究](https://hdl.handle.net/11296/e7qn5s)
 
-[3] [智慧型功能近紅外光光譜術應用於周邊動脈阻塞疾病之預後研究](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=4a2sQ0/record?r1=5&h1=1)
+[3] [智慧型功能近紅外光光譜術應用於周邊動脈阻塞疾病之預後研究](https://hdl.handle.net/11296/256553)
 
