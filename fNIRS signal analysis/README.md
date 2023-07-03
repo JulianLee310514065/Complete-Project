@@ -40,8 +40,8 @@
 **Filtered (folder)** → Data after filtering
 
 **Feature.xlsx** → Data after feature extraction(2_Get_Feature.ipynb)
----
 
+---
 
 # Referance
 [1] [Fernandez Rojas R, Huang X, Ou KL. A Machine Learning Approach for the Identification of a Biomarker of Human Pain using fNIRS. Sci Rep. 2019;9(1):5645. Published 2019 Apr 4. doi:10.1038/s41598-019-42098-w](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6449551/)
