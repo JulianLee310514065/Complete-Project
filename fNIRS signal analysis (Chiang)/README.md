@@ -31,3 +31,7 @@
 ![output](https://github.com/JulianLee310514065/Complete-Project/blob/main/fNIRS%20signal%20analysis%20(Chiang)/output.png)
 
 ![CM](https://github.com/JulianLee310514065/Complete-Project/blob/main/fNIRS%20signal%20analysis%20(Chiang)/CM.png)
+
+---
+# Referance
+[1] [葉克膜患者之疾病嚴重度量化研究：功能性近紅外光光譜特徵與急性生理評估系統之關聯性分析](https://hdl.handle.net/11296/v732tc)
