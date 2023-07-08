@@ -18,4 +18,6 @@
 
 **TDDR.py** → TDDR function, use `import TDDR` to import python file
 
-
+---
+# Referance
+[1] [以光譜特徵智慧預測葉克膜患者器官衰竭評估](https://hdl.handle.net/11296/a57r6k)
